@@ -1,4 +1,5 @@
 #Data
 *.csv
+#Transactions
 *.parquet
 
